@@ -1,0 +1,74 @@
+/* 共用 */
+div {
+    max-width: 600px;
+    min-width: 300px;
+    background-color: #fff;
+    margin: auto;
+}
+
+table {
+    width: 100%;
+    height: 100%;
+    border-collapse: collapse;
+    border-spacing: 0px;
+    padding: 0;
+    Margin: 0;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+img {
+    border: 0;
+    outline: none;
+    text-decoration: none;
+}
+.txt_link{
+    color: #e0d799;
+    text-decoration: underline;
+}
+
+/* 2298 */
+.head{
+    padding: 20px;
+    font-size: 12px;
+}
+.content{
+    min-height: 800px;
+    
+}
+.content td{
+    padding: 20px;
+    vertical-align: top;
+}
+
+.foot_info{
+    padding: 10px 0;
+    color: #ffffff;
+    font-size: 12px;
+    text-align: center;
+}
+.foot_info table{
+    margin: auto;
+}
+.foot_info td{
+    padding: 10px 0;
+}
+.foot_info p{
+    margin: 0;
+}
+.foot_link{
+    padding: 10px 0;
+}
+.foot_link a{
+    display: block;
+    width: 32px;
+    margin: auto;
+}
+.foot_link table{
+    width: 300px;
+    text-align: center;
+    margin: auto;
+}
