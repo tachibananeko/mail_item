@@ -26,14 +26,14 @@ img {
     vertical-align: middle;
 }
 .txt_link{
-    color: #e0d799;
+    color: #9a8874;
     text-decoration: underline;
 }
 
 /* 2298 */
 .head{
     padding: 20px;
-    font-size: 12px;
+    border-bottom: 1px solid #3c1516;
 }
 .content{
     max-width: 800px;
@@ -51,10 +51,9 @@ img {
     padding: 10px 0;
     color: #ffffff;
     font-size: 12px;
-    text-align: center;
 }
 .foot_info table{
-    max-width: 600px;
+    max-width: 500px;
     margin: auto;
 }
 .foot_info td{
