@@ -29,6 +29,9 @@ img {
     color: #a9987f;
     text-decoration: underline;
 }
+.txt_bold{
+    font-weight: bold;
+}
 
 /* 2298 */
 .head{
@@ -49,7 +52,8 @@ img {
 
 .foot_info{
     padding: 10px 0;
-    color: #ffffff;
+    border-top: 1px solid #a9987f;
+    color: #052e52;
     font-size: 12px;
     text-align: center;
 }
@@ -58,13 +62,16 @@ img {
     margin: auto;
 }
 .foot_info td{
-    padding: 10px 0;
+    padding: 3px 0;
 }
 .foot_info p{
     margin: 0;
 }
 .foot_link{
     padding: 10px 0;
+    text-align: center;
+    color: #ffffff;
+    font-size: 12px;
 }
 .foot_link a{
     display: block;
