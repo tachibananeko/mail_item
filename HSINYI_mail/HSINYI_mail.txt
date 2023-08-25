@@ -7,9 +7,9 @@
                         <table cellspacing="0" cellpadding="0" bgcolor="#ffffff" class="content" style="width:100%;height:100%;border-collapse:collapse;border-spacing:0px;padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;Margin:0;max-width:800px;min-height:200px;line-height:32px;font-size:16px;margin-top:auto;margin-bottom:auto;margin-right:auto;margin-left:auto;" >
                             <tr>
                                 <td style="padding-top:20px;padding-bottom:20px;padding-right:20px;padding-left:20px;vertical-align:top;" >Lorem ipsum dolor sit amet consectetur, adipisicing elit. Labore inventore, alias dolores voluptatem eius
-                                    accusantium commodi. Totam iusto cumque maiores nesciunt neque eum enim non aut, vel sapiente nemo expedita
-                                    voluptatem ratione quia amet veniam, aspernatur necessitatibus distinctio sint magnam? Totam minima incidunt eius
-                                    impedit sint dignissimos, earum magnam. Molestias?</td>
+                                accusantium commodi. Totam iusto cumque maiores nesciunt neque eum enim non aut, vel sapiente nemo expedita
+                                voluptatem ratione quia amet veniam, aspernatur necessitatibus distinctio sint magnam? Totam minima incidunt eius
+                                impedit sint dignissimos, earum magnam. Molestias?</td>
                             </tr>
                         </table>
                         <!-- content end -->
@@ -20,32 +20,39 @@
                         <table class="foot" cellspacing="0" cellpadding="0" style="width:100%;height:100%;border-collapse:collapse;border-spacing:0px;padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;Margin:0;" >
                             <!-- 資訊區 -->
                             <tr>
-                                <td class="foot_info" style="padding-top:10px;padding-bottom:10px;padding-right:0;padding-left:0;border-top-width:1px;border-top-style:solid;border-top-color:#a9987f;color:#052e52;font-size:12px;text-align:center;" >
+                                <td class="foot_info" style="padding-top:10px;padding-bottom:10px;padding-right:0;padding-left:0;border-top-width:1px;border-top-style:solid;border-top-color:#131d38;color:#131d38;font-size:12px;text-align:center;" >
                                     <table cellspacing="0" cellpadding="0" style="width:100%;height:100%;border-collapse:collapse;border-spacing:0px;padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;Margin:0;max-width:600px;margin-top:auto;margin-bottom:auto;margin-right:auto;margin-left:auto;" >
                                         <tr>
-                                            <td style="padding-top:3px;padding-bottom:3px;padding-right:0;padding-left:0;" >
-                                                <a target="_blank" href="http://amcm.sg" style="color:inherit;text-decoration:none;" ><img src="https://tachibananeko.github.io/mail_item/AMcapital_mail/mail_images/icon_logo.png" style="border-width:0;outline-style:none;text-decoration:none;vertical-align:middle;" ></a>
+                                            <td colspan="3" style="padding-top:3px;padding-bottom:3px;padding-right:0;padding-left:0;" >
+                                                <a target="_blank" href="https://www.hsinyi-sg.com/" class="txt_link" style="color:#08c1f2;text-decoration:underline;" ><img src="mail_images/icon_logo.png" style="border-width:0;outline-style:none;text-decoration:none;vertical-align:middle;" ></a>
+                                            </td>
+                                        </tr>
+                                        <tr class="txt_bold" style="font-weight:bold;" >
+                                            <td width="33.33%" style="padding-top:3px;padding-bottom:3px;padding-right:0;padding-left:0;" >
+                                                <a target="_blank" href="mailto:assistant@hsinyi-sg.com" style="color:inherit;text-decoration:none;" >assistant@hsinyi-sg.com</a>
+                                            </td>
+                                            <td width="33.33%" style="padding-top:3px;padding-bottom:3px;padding-right:0;padding-left:0;" >
+                                                <a target="_blank" href="tel: +85237575623" style="color:inherit;text-decoration:none;" >+852 3757 5623</a>
+                                            </td>
+                                            <td width="33.33%" style="padding-top:3px;padding-bottom:3px;padding-right:0;padding-left:0;" >
+                                                UEN 201227382H
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td class="txt_bold" style="font-weight:bold;padding-top:3px;padding-bottom:3px;padding-right:0;padding-left:0;" >
-                                                <a target="_blank" href="mailto:amcapital@amcm.sg" style="color:inherit;text-decoration:none;" >amcapital@amcm.sg</a>
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td style="padding-top:3px;padding-bottom:3px;padding-right:0;padding-left:0;" >
-                                                290 ORCHARD ROAD #14-01<br>THE PARAGON Singapore, 238859 Singapore UEN 202311503Z
+                                            <td colspan="3" style="padding-top:3px;padding-bottom:3px;padding-right:0;padding-left:0;" >
+                                                8 Eu Tong Sen Street,<br>
+                                                #19-91 Singapore 059818
                                             </td>
                                         </tr>
                                     </table>
                                 </td>
                             </tr>
-
+                            
 
 
                             <!-- 連結區 -->
                             <tr>
-                                <td bgcolor="#052e52" class="foot_link" style="padding-top:10px;padding-bottom:10px;padding-right:0;padding-left:0;text-align:center;color:#ffffff;font-size:12px;" >AM CAPITAL MANAGEMENT PTE. LTD.
+                                <td bgcolor="#131d38" class="foot_link" style="padding-top:10px;padding-bottom:10px;padding-right:0;padding-left:0;text-align:center;color:#08c1f2;font-size:12px;" >Hsin Yi Pte Ltd
                                 </td>
                             </tr>
                         </table>
