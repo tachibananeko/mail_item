@@ -26,8 +26,11 @@ img {
     vertical-align: middle;
 }
 .txt_link{
-    color: #e0d799;
+    color: #866225;
     text-decoration: underline;
+}
+.txt_bold{
+    font-weight: bold;
 }
 
 /* 2298 */
@@ -37,7 +40,7 @@ img {
 }
 .content{
     max-width: 800px;
-    min-height: 800px;
+    min-height: 200px;
     line-height: 32px;
     font-size: 16px;
     margin: auto;
@@ -49,7 +52,8 @@ img {
 
 .foot_info{
     padding: 10px 0;
-    color: #ffffff;
+    border-top: 1px solid #000000;
+    color: #000000;
     font-size: 12px;
     text-align: center;
 }
