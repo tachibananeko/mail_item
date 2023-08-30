@@ -52,6 +52,7 @@ img {
 
 .foot_info{
     padding: 10px 0;
+    border-top: 1px solid #999;
     color: #000000;
     font-size: 12px;
     text-align: center;
