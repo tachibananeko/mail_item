@@ -7,9 +7,9 @@
                         <table cellspacing="0" cellpadding="0" bgcolor="#ffffff" class="content" style="width:100%;height:100%;border-collapse:collapse;border-spacing:0px;padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;Margin:0;max-width:800px;min-height:200px;line-height:32px;font-size:16px;margin-top:auto;margin-bottom:auto;margin-right:auto;margin-left:auto;" >
                             <tr>
                                 <td style="padding-top:20px;padding-bottom:20px;padding-right:20px;padding-left:20px;vertical-align:top;" >Lorem ipsum dolor sit amet consectetur, adipisicing elit. Labore inventore, alias dolores voluptatem eius
-                                    accusantium commodi. Totam iusto cumque maiores nesciunt neque eum enim non aut, vel sapiente nemo expedita
-                                    voluptatem ratione quia amet veniam, aspernatur necessitatibus distinctio sint magnam? Totam minima incidunt eius
-                                    impedit sint dignissimos, earum magnam. Molestias?</td>
+                                accusantium commodi. Totam iusto cumque maiores nesciunt neque eum enim non aut, vel sapiente nemo expedita
+                                voluptatem ratione quia amet veniam, aspernatur necessitatibus distinctio sint magnam? Totam minima incidunt eius
+                                impedit sint dignissimos, earum magnam. Molestias?</td>
                             </tr>
                         </table>
                         <!-- content end -->
@@ -33,16 +33,16 @@
                                         <tr>
                                             <td style="padding-top:3px;padding-bottom:3px;padding-right:0;padding-left:0;" >
                                                 <a target="_blank"
-                                                    href="mailto:sales@wisec.com.sg" style="color:inherit;text-decoration:none;" >sales@wisec.com.sg</a>
+                                                    href="mailto:sales@wisec.com.sg" class="word_fix" style="color:#3c1516 !important;text-decoration:none !important;" >sales@wisec.com.sg</a>
                                             </td>
                                         </tr>
                                         <tr class="txt_bold" style="font-weight:bold;" >
                                             <td class="txt_bold" style="font-weight:bold;padding-top:3px;padding-bottom:3px;padding-right:0;padding-left:0;" >
-                                                <a target="_blank" href="tel:+6569967685" style="color:inherit;text-decoration:none;" >+65 6996 7685</a>
+                                                <a target="_blank" href="tel:+6569967685" class="word_fix" style="color:#3c1516 !important;text-decoration:none !important;" >+65 6996 7685</a>
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td style="padding-top:3px;padding-bottom:3px;padding-right:0;padding-left:0;" >
+                                            <td class="word_fix" style="color:#3c1516 !important;text-decoration:none !important;padding-top:3px;padding-bottom:3px;padding-right:0;padding-left:0;" >
                                                 8 Eu Tong Sen Street,<br>
                                                 #19-92 Singapore 059818
                                             </td>

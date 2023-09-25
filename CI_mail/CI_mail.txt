@@ -1,4 +1,4 @@
- <div style="min-width:300px;background-color:#fff;margin-top:auto;margin-bottom:auto;margin-right:auto;margin-left:auto;" >
+<div style="min-width:300px;background-color:#fff;margin-top:auto;margin-bottom:auto;margin-right:auto;margin-left:auto;" >
         <table cellspacing="0" cellpadding="0" style="width:100%;height:100%;border-collapse:collapse;border-spacing:0px;padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;Margin:0;" >
             <tbody>
                 <tr>
@@ -29,16 +29,16 @@
                                         </tr>
                                         <tr>
                                             <td style="padding-top:3px;padding-bottom:3px;padding-right:20px;padding-left:20px;" >
-                                                <a target="_blank" href="mailto:contactus@caulfield-investment.global" style="color:inherit;text-decoration:none;" >contactus@caulfield-investment.global</a>
+                                                <a target="_blank" href="mailto:contactus@caulfield-investment.global" class="word_fix" style="color:#000000 !important;text-decoration:none !important;" >contactus@caulfield-investment.global</a>
                                             </td>
                                         </tr>
                                         <tr>
                                             <td class="txt_bold" style="font-weight:bold;padding-top:3px;padding-bottom:3px;padding-right:20px;padding-left:20px;" >
-                                                <a target="_blank" href="tel: +85237575623" style="color:inherit;text-decoration:none;" >+852 3757 5623</a>
+                                                <a target="_blank" href="tel: +85237575623" class="word_fix" style="color:#000000 !important;text-decoration:none !important;" >+852 3757 5623</a>
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td style="padding-top:3px;padding-bottom:3px;padding-right:20px;padding-left:20px;" >
+                                            <td class="word_fix" style="color:#000000 !important;text-decoration:none !important;padding-top:3px;padding-bottom:3px;padding-right:20px;padding-left:20px;" >
                                                 18/F, Hollywood Plaza,<br> 610 Nathan Road, Kowloon, Hong Kong
                                             </td>
                                         </tr>

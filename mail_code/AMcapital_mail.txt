@@ -1,4 +1,4 @@
-<div style="min-width:300px;background-color:#fff;margin-top:auto;margin-bottom:auto;margin-right:auto;margin-left:auto;" >
+ <div style="min-width:300px;background-color:#fff;margin-top:auto;margin-bottom:auto;margin-right:auto;margin-left:auto;" >
         <table cellspacing="0" cellpadding="0" style="width:100%;height:100%;border-collapse:collapse;border-spacing:0px;padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;Margin:0;" >
             <tbody>
                 <tr>
@@ -24,16 +24,16 @@
                                     <table cellspacing="0" cellpadding="0" style="width:100%;height:100%;border-collapse:collapse;border-spacing:0px;padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;Margin:0;max-width:600px;margin-top:auto;margin-bottom:auto;margin-right:auto;margin-left:auto;" >
                                         <tr>
                                             <td style="padding-top:3px;padding-bottom:3px;padding-right:0;padding-left:0;" >
-                                                <a target="_blank" href="http://amcm.sg" style="color:inherit;text-decoration:none;" ><img src="https://tachibananeko.github.io/mail_item/AMcapital_mail/mail_images/icon_logo.png" style="border-width:0;outline-style:none;text-decoration:none;vertical-align:middle;" ></a>
+                                                <a target="_blank" href="http://amcm.sg" style="color:inherit;text-decoration:none;" ><img src="https://tachibananeko.github.io/mail_item/AMcapital_mail/mail_images/icon_logo.png" class="word_fix" style="border-width:0;outline-style:none;vertical-align:middle;color:#052e52 !important;text-decoration:none !important;" ></a>
                                             </td>
                                         </tr>
                                         <tr>
                                             <td class="txt_bold" style="font-weight:bold;padding-top:3px;padding-bottom:3px;padding-right:0;padding-left:0;" >
-                                                <a target="_blank" href="mailto:amcapital@amcm.sg" style="color:inherit;text-decoration:none;" >amcapital@amcm.sg</a>
+                                                <a target="_blank" href="mailto:amcapital@amcm.sg" class="word_fix" style="color:#052e52 !important;text-decoration:none !important;" >amcapital@amcm.sg</a>
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td style="padding-top:3px;padding-bottom:3px;padding-right:0;padding-left:0;" >
+                                            <td class="word_fix" style="color:#052e52 !important;text-decoration:none !important;padding-top:3px;padding-bottom:3px;padding-right:0;padding-left:0;" >
                                                 1 SCOTTS ROAD,<br>
                                                 #22-12/13 SHAW CENTRE,<br>
                                                 SINGAPORE 228208 UEN 202311503Z

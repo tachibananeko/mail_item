@@ -84,3 +84,7 @@ img {
     text-align: center;
     margin: auto;
 }
+.word_fix {
+    color: #000000 !important;
+    text-decoration: none !important;
+}
