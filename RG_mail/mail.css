@@ -1,0 +1,90 @@
+/* 共用 */
+div {
+    min-width: 300px;
+    background-color: #fff;
+    margin: auto;
+}
+
+table {
+    width: 100%;
+    height: 100%;
+    border-collapse: collapse;
+    border-spacing: 0px;
+    padding: 0;
+    Margin: 0;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+img {
+    border: 0;
+    outline: none;
+    text-decoration: none;
+    vertical-align: middle;
+}
+.txt_link{
+    color: #ea5f4d;
+    text-decoration: underline;
+}
+.txt_bold {
+    font-weight: bold;
+}
+
+/* 2298 */
+.head{
+    padding: 20px;
+    font-size: 12px;
+}
+.content{
+    max-width: 800px;
+    min-height: 200px;
+    line-height: 32px;
+    font-size: 16px;
+    margin: auto;
+}
+.content td{
+    padding: 20px;
+    vertical-align: top;
+}
+
+.foot_info{
+    padding: 10px 0;
+    border-top: 1px solid #999;
+    color: #000000;
+    font-size: 12px;
+    text-align: center;
+}
+.foot_info table{
+    max-width: 600px;
+    margin: auto;
+}
+.foot_info td{
+    padding: 3px 20px;
+}
+.foot_info p{
+    margin: 0;
+}
+.foot_link {
+    padding: 10px 0;
+    text-align: center;
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 12px;
+}
+.foot_link a{
+    display: block;
+    width: 32px;
+    margin: auto;
+}
+.foot_link table{
+    max-width: 300px;
+    text-align: center;
+    margin: auto;
+}
+.word_fix {
+    color: #000000 !important;
+    text-decoration: none !important;
+}
