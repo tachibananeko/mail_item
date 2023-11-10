@@ -11,7 +11,8 @@ table {
     border-collapse: collapse;
     border-spacing: 0px;
     padding: 0;
-    Margin: 0;
+    margin: 0;
+    font-size: 12px;
 }
 
 a {
@@ -26,14 +27,18 @@ img {
     vertical-align: middle;
 }
 .txt_link{
-    color: #08c1f2;
-    text-decoration: underline;
+    color: #08c1f2 !important;
+    text-decoration: underline!important;
 }
 .txt_bold {
     font-weight: bold;
 }
+.word_fix {
+    color: #fff !important;
+    text-decoration: none !important;
+}
 
-/* 2298 */
+
 .head{
     padding: 20px;
     font-size: 12px;
@@ -51,39 +56,31 @@ img {
 }
 
 .foot_info{
-    padding: 10px 0;
-    border-top: 1px solid #131d38;
-    color: #131d38;
-    font-size: 12px;
-    text-align: center;
+    padding: 10px;
+    color: #fff;
 }
-.foot_info table{
-    max-width: 600px;
-    margin: auto;
+.logo{
+    font-size: 14px;
 }
-.foot_info td{
-    padding: 3px 0;
+.txt_style{
+    
+    font-size: 20px;
+    font-weight: bold;
 }
-.foot_info p{
-    margin: 0;
-}
-.foot_link{
-    padding: 10px 0;
-    text-align: center;
+.txt_color01{
     color: #08c1f2;
-    font-size: 12px;
 }
-.foot_link a{
-    display: block;
-    width: 32px;
-    margin: auto;
+.txt_color02{
+    color: #dc287c;
 }
-.foot_link table{
-    max-width: 300px;
+
+.foot_info_link{
+    table-layout: fixed;
+    max-width: 200px;
+    font-weight: bold;
+    margin-left: auto;
     text-align: center;
-    margin: auto;
 }
-.word_fix{
-    color: #131d38!important;
-    text-decoration: none!important;
+.line_right{
+    border-right: 1px solid #fff;
 }
