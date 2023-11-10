@@ -10,6 +10,7 @@ table {
     height: 100%;
     border-collapse: collapse;
     border-spacing: 0px;
+    font-family: 'PingFang TC', 微軟正黑體, 'Microsoft JhengHei', Helvetica, Arial, sans-serif;
     padding: 0;
     margin: 0;
     font-size: 12px;
@@ -30,8 +31,8 @@ img {
     color: #08c1f2 !important;
     text-decoration: underline!important;
 }
-.txt_bold {
-    font-weight: bold;
+.txt_700 {
+    font-weight: 700;
 }
 .word_fix {
     color: #fff !important;
@@ -65,7 +66,7 @@ img {
 .txt_style{
     
     font-size: 20px;
-    font-weight: bold;
+    font-weight: 700;
 }
 .txt_color01{
     color: #08c1f2;
@@ -73,12 +74,15 @@ img {
 .txt_color02{
     color: #dc287c;
 }
-
-.foot_info_link{
-    table-layout: fixed;
-    max-width: 200px;
-    font-weight: bold;
+.foot_link{
+    padding-top: 10px;
+}
+.foot_link table{
+    width: 100%;
+    max-width: 150px;
+    font-weight: 700;
     margin-left: auto;
+    table-layout: fixed;
     text-align: center;
 }
 .line_right{
