@@ -64,7 +64,10 @@ img {
     width: 21px;
 }
 .logo_txt{
+    padding-left: 10px;
     font-size: 14px;
+    font-weight: bold;
+    vertical-align: bottom;
 }
 .txt_style{
     

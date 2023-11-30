@@ -1,10 +1,10 @@
 <div style="min-width:300px;background-color:#fff;margin-top:auto;margin-bottom:auto;margin-right:auto;margin-left:auto;" >
-        <table cellspacing="0" cellpadding="0" style="width:100%;height:100%;border-collapse:collapse;border-spacing:0px;padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;Margin:0;" >
+        <table cellspacing="0" cellpadding="0" style="width:100%;height:100%;border-collapse:collapse;border-spacing:0px;font-family:'PingFang TC', 微軟正黑體, 'Microsoft JhengHei', Helvetica, Arial, sans-serif;padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;margin-top:0;margin-bottom:0;margin-right:0;margin-left:0;font-size:12px;" >
             <tbody>
                 <tr>
                     <td>
                         <!-- content -->
-                        <table cellspacing="0" cellpadding="0" bgcolor="#ffffff" class="content" style="width:100%;height:100%;border-collapse:collapse;border-spacing:0px;padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;Margin:0;max-width:800px;min-height:200px;line-height:32px;font-size:16px;margin-top:auto;margin-bottom:auto;margin-right:auto;margin-left:auto;" >
+                        <table cellspacing="0" cellpadding="0" bgcolor="#ffffff" class="content" style="width:100%;height:100%;border-collapse:collapse;border-spacing:0px;font-family:'PingFang TC', 微軟正黑體, 'Microsoft JhengHei', Helvetica, Arial, sans-serif;padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;max-width:800px;min-height:200px;line-height:32px;font-size:16px;margin-top:auto;margin-bottom:auto;margin-right:auto;margin-left:auto;" >
                             <tr>
                                 <td style="padding-top:20px;padding-bottom:20px;padding-right:20px;padding-left:20px;vertical-align:top;" >Lorem ipsum dolor sit amet consectetur, adipisicing elit. Labore inventore, alias dolores voluptatem eius
                                 accusantium commodi. Totam iusto cumque maiores nesciunt neque eum enim non aut, vel sapiente nemo expedita
@@ -17,44 +17,33 @@
         
         
                         <!-- footer -->
-                        <table class="foot" cellspacing="0" cellpadding="0" style="width:100%;height:100%;border-collapse:collapse;border-spacing:0px;padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;Margin:0;" >
+                        <table bgcolor="#131d38" class="foot" cellspacing="0" cellpadding="0" style="width:100%;height:100%;border-collapse:collapse;border-spacing:0px;font-family:'PingFang TC', 微軟正黑體, 'Microsoft JhengHei', Helvetica, Arial, sans-serif;padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;margin-top:0;margin-bottom:0;margin-right:0;margin-left:0;font-size:12px;" >
                             <!-- 資訊區 -->
                             <tr>
-                                <td class="foot_info" style="padding-top:10px;padding-bottom:10px;padding-right:0;padding-left:0;border-top-width:1px;border-top-style:solid;border-top-color:#131d38;color:#131d38;font-size:12px;text-align:center;" >
-                                    <table cellspacing="0" cellpadding="0" style="width:100%;height:100%;border-collapse:collapse;border-spacing:0px;padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;Margin:0;max-width:600px;margin-top:auto;margin-bottom:auto;margin-right:auto;margin-left:auto;" >
+                                <td class="foot_info" style="padding-top:10px;padding-bottom:10px;padding-right:10px;padding-left:10px;color:#fff;" >
+                                    <table cellspacing="0" cellpadding="0" style="width:100%;height:100%;border-collapse:collapse;border-spacing:0px;font-family:'PingFang TC', 微軟正黑體, 'Microsoft JhengHei', Helvetica, Arial, sans-serif;padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;margin-top:0;margin-bottom:0;margin-right:0;margin-left:0;font-size:12px;" >
                                         <tr>
-                                            <td colspan="3" style="padding-top:3px;padding-bottom:3px;padding-right:0;padding-left:0;" >
-                                                <a target="_blank" href="https://www.hsinyi-sg.com/" class="txt_link" style="color:#08c1f2;text-decoration:underline;" >
-                                                    <img src="https://tachibananeko.github.io/mail_item/HSINYI_mail/mail_images/icon_logo.png" style="border-width:0;outline-style:none;text-decoration:none;vertical-align:middle;" >
-                                                </a>
+                                            <td class="logo" style="width:21px;" >
+                                                <img alt="Hsin Yi Pte Ltd" src="https://tachibananeko.github.io/mail_item/HSINYI_mail/mail_images/icon_logo.png" style="border-width:0;outline-style:none;text-decoration:none;vertical-align:middle;" >
                                             </td>
+                                            <td class="logo_txt" style="padding-left:10px;font-size:14px;font-weight:bold;vertical-align:bottom;" >Hsin Yi Pte Ltd</td>
                                         </tr>
-                                        <tr class="txt_bold" style="font-weight:bold;" >
-                                            <td width="33.33%" style="padding-top:3px;padding-bottom:3px;padding-right:0;padding-left:0;" >
-                                                <a target="_blank" href="mailto:assistant@hsinyi-sg.com" class="word_fix" style="color:#131d38!important;text-decoration:none!important;" >assistant@hsinyi-sg.com</a>
-                                            </td>
-                                            <td width="33.33%" style="padding-top:3px;padding-bottom:3px;padding-right:0;padding-left:0;" >
-                                                <a target="_blank" href="tel: +6569967685" class="word_fix" style="color:#131d38!important;text-decoration:none!important;" >+65 6996 7685</a>
-                                            </td>
-                                            <td width="33.33%" style="padding-top:3px;padding-bottom:3px;padding-right:0;padding-left:0;" >
-                                                UEN 201227382H
+                                        <tr>
+                                            <td colspan="2">
+                                                <a target="_blank" href="tel:+6569967685" class="word_fix" style="color:#fff !important;text-decoration:none !important;" >+65 6996 7685</a>
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td colspan="3" class="word_fix" style="color:#131d38!important;text-decoration:none!important;padding-top:3px;padding-bottom:3px;padding-right:0;padding-left:0;" >
-                                                8 Eu Tong Sen Street,<br>
-                                                #19-91 Singapore 059818
+                                            <td colspan="2">
+                                                <a class="word_fix" style="color:#fff !important;text-decoration:none !important;" >8 Eu Tong Sen Street, #19-91 Singapore 059818</a>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td colspan="2">
+                                                <a target="_blank" href="https://www.hsinyi-sg.com/" class="txt_link" style="color:#08c1f2 !important;text-decoration:underline!important;" >https://www.hsinyi-sg.com/</a>
                                             </td>
                                         </tr>
                                     </table>
-                                </td>
-                            </tr>
-                            
-
-
-                            <!-- 連結區 -->
-                            <tr>
-                                <td bgcolor="#131d38" class="foot_link" style="padding-top:10px;padding-bottom:10px;padding-right:0;padding-left:0;text-align:center;color:#08c1f2;font-size:12px;" >Hsin Yi Pte Ltd
                                 </td>
                             </tr>
                         </table>
