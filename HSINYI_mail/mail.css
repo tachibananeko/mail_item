@@ -61,7 +61,11 @@ img {
     color: #fff;
 }
 .logo{
+    vertical-align: middle;
     font-size: 14px;
+}
+.logo img{
+    margin-right: 10px;
 }
 .txt_style{
     
