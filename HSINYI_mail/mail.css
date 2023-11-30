@@ -61,11 +61,10 @@ img {
     color: #fff;
 }
 .logo{
-    vertical-align: middle;
-    font-size: 14px;
+    width: 21px;
 }
-.logo img{
-    margin-right: 10px;
+.logo_txt{
+    font-size: 14px;
 }
 .txt_style{
     
