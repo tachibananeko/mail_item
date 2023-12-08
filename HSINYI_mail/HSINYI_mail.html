@@ -45,7 +45,10 @@ img {
     font-weight: 700;
 }
 .word_fix {
-    color: #fff !important;
+    display: block;
+    height: 100%;
+    background: #131d38;
+    mix-blend-mode: difference;
     text-decoration: none !important;
 }
 
@@ -72,15 +75,13 @@ img {
 }
 .logo{
     width: 21px;
+    padding-right: 10px;
 }
 .logo_txt{
-    padding-left: 10px;
     font-size: 14px;
     font-weight: bold;
-    vertical-align: bottom;
 }
 .txt_style{
-    
     font-size: 20px;
     font-weight: 700;
 }
@@ -113,9 +114,9 @@ img {
                 <tr>
                     <td>
                         <!-- content -->
-                        <table cellspacing="0" cellpadding="0" bgcolor="#ffffff" class="content">
-                            <tr>
-                                <td>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Labore inventore, alias dolores
+                        <table cellspacing="0" cellpadding="0" class="content" style="background:#fff; background-image:linear-gradient(#000,#000);color:#000;">
+                            <tr style="background:#000; mix-blend-mode:screen;">
+                                <td style="background:#fff; mix-blend-mode:difference;">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Labore inventore, alias dolores
                                     voluptatem eius
                                     accusantium commodi. Totam iusto cumque maiores nesciunt neque eum enim non aut, vel
                                     sapiente nemo expedita
@@ -129,25 +130,26 @@ img {
         
         
                         <!-- footer -->
-                        <table bgcolor="#131d38" class="foot" cellspacing="0" cellpadding="0">
+                        <table style="background:#131d38; background-image:linear-gradient(#131d38,#131d38);color:#fff;" class="foot" cellspacing="0" cellpadding="0">
                             <!-- 資訊區 -->
                             <tr>
                                 <td class="foot_info">
                                     <table cellspacing="0" cellpadding="0">
                                         <tr>
                                             <td class="logo">
-                                                <img alt="Hsin Yi Pte Ltd"
-                                                    src="https://tachibananeko.github.io/mail_item/HSINYI_mail/mail_images/icon_logo.png">
+                                                <img src="https://tachibananeko.github.io/mail_item/HSINYI_mail/mail_images/icon_logo.png">
                                             </td>
-                                            <td class="logo_txt">Hsin Yi Pte Ltd</td>
+                                            <td class="logo_txt" style="background:#131d38; mix-blend-mode:screen;">
+                                                <div class="word_fix" style="padding-top: 20px;">Hsin Yi Pte Ltd</div>
+                                            </td>
                                         </tr>
                                         <tr>
-                                            <td colspan="2">
+                                            <td colspan="2" style="background:#131d38; mix-blend-mode:screen;">
                                                 <a target="_blank" href="tel:+6569967685" class="word_fix">+65 6996 7685</a>
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td colspan="2">
+                                            <td colspan="2" style="background:#131d38; mix-blend-mode:screen;">
                                                 <a class="word_fix">8 Eu Tong Sen Street, #19-91 Singapore 059818</a>
                                             </td>
                                         </tr>

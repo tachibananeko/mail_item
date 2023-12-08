@@ -35,7 +35,10 @@ img {
     font-weight: 700;
 }
 .word_fix {
-    color: #fff !important;
+    display: block;
+    height: 100%;
+    background: #131d38;
+    mix-blend-mode: difference;
     text-decoration: none !important;
 }
 
@@ -62,15 +65,13 @@ img {
 }
 .logo{
     width: 21px;
+    padding-right: 10px;
 }
 .logo_txt{
-    padding-left: 10px;
     font-size: 14px;
     font-weight: bold;
-    vertical-align: bottom;
 }
 .txt_style{
-    
     font-size: 20px;
     font-weight: 700;
 }
